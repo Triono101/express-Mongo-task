@@ -1,0 +1,33 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "Tugas express MpongoDb",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triono101/express-Mongo-task.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Triono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triono101/express-Mongo-task/issues"
+  },
+  "homepage": "https://github.com/Triono101/express-Mongo-task#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.8",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
